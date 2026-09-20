@@ -144,3 +144,10 @@ npx expo-doctor
 ```
 
 All checks pass with 0 errors.
+## 📱 Android APK
+
+PixelNest has been built and tested successfully on a physical Android device.
+
+**[Download PixelNest APK](https://expo.dev/artifacts/eas/YXqZG_-YKpofNdrY2jGQbQgJsfKfgXJWBxLgPeXARRY.apk)**
+
+Built using Expo EAS Build.
