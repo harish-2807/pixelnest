@@ -89,8 +89,8 @@ src/
 ## Installation
 
 ```bash
-git clone <repository-url>
-cd pixelnest-react-native
+git clone https://github.com/harish-2807/pixelnest.git
+cd pixelnest
 npm install
 npx expo start
 ```
